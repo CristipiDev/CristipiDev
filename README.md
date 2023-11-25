@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/kuvYcmj.jpg" title="source: imgur.com" />
 
-- 🔭 I’m currently working on **learning new skills throught different projects. Currently: Pokedex**
+- 🔭 I’m currently working on **learning new skills throught different projects. Currently: WorkFlow**
 
 - 🌱 I’m currently learning **Room, Dagger Hilt, Retrofit and Compose**
 
